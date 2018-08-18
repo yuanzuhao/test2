@@ -5,7 +5,7 @@ public class test {
 
 	 
 
-	 int i = 5;
+	 int i = 7;
 
 
 
