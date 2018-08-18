@@ -1,10 +1,7 @@
 package test2;
 
-public class test {
+public class test2 {
  public void test(){
-	 a'a'a
-sa'd'fa
-	 sddf
 
  }
 }
