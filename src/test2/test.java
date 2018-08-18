@@ -4,6 +4,10 @@ public class test {
  public void test(){
 
 	 
-	 int i = 2;
+
+	 int i = 5;
+
+
+
  }
 }
