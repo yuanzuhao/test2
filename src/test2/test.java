@@ -2,9 +2,9 @@ package test2;
 
 public class test {
  public void test(){
-	 a'a'a
-aaaaaa
-	 sddfaaaaaaaa
+
+	 
+	 int i = 0;
 
  }
 }
