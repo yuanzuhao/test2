@@ -4,6 +4,6 @@ public class test {
  public void test(){
 
 	 
-	 int i = 1;
+	 int i = 2;
  }
 }
